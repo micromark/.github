@@ -5,20 +5,20 @@ labels: 🔍 status/open, 🐛 type/bug
 ---
 
 <!--
-Ouch, sorry you’ve run into a bug.  Thank for taking the time to report it!
+Ouch, sorry you ran into a bug.  Thank for taking the time to report it!
 
 Please fill in as much of the template below as you’re able.
 
 P.S. have you seen our support and contributing docs?
-https://github.com/micromark/.github/blob/master/support.md
-https://github.com/micromark/.github/blob/master/contributing.md
+https://github.com/micromark/.github/blob/main/support.md
+https://github.com/micromark/.github/blob/main/contributing.md
 -->
 
 ### Subject of the issue
 
 Describe your issue here.
 
-This is *not* a place to ask questions.  For that, go to [spectrum](https://spectrum.chat/unified/micromark)
+This is *not* a place to ask questions.  For that, go to [Discussions](https://github.com/micromark/micromark/discussions)
 
 ### Your environment
 
@@ -32,10 +32,10 @@ Tell us how to reproduce this issue.  Please provide a working and simplified ex
 
 🎉 BONUS POINTS for creating a [minimal reproduction](https://stackoverflow.com/help/mcve) and uploading it to GitHub.  This will get you the fastest support.  🎉
 
-### Expected behaviour
+### Expected behavior
 
 What should happen?
 
-### Actual behaviour
+### Actual behavior
 
 What happens instead?

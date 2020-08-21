@@ -10,8 +10,8 @@ Thank you for suggesting an idea to make this project better!
 Please fill in as much of the template below as you’re able.
 
 P.S. have you seen our support and contributing docs?
-https://github.com/micromark/.github/blob/master/support.md
-https://github.com/micromark/.github/blob/master/contributing.md
+https://github.com/micromark/.github/blob/main/support.md
+https://github.com/micromark/.github/blob/main/contributing.md
 -->
 
 ### Subject of the feature
@@ -22,9 +22,9 @@ Describe your issue here.
 
 If the feature requests relates to a problem, please describe the problem you are trying to solve here.
 
-### Expected behaviour
+### Expected behavior
 
-What should happen?  Please describe the desired behaviour.
+What should happen?  Please describe the desired behavior.
 
 ### Alternatives
 
