@@ -32,6 +32,10 @@ Tell us how to reproduce this issue.  Please provide a working and simplified ex
 
 🎉 BONUS POINTS for creating a [minimal reproduction](https://stackoverflow.com/help/mcve) and uploading it to GitHub.  This will get you the fastest support.  🎉
 
+<!--
+Consider using a codesandbox to make the issue easy to replicate, here is a starter: https://codesandbox.io/s/micromark-debug-y9vz3
+--->
+
 ### Expected behavior
 
 What should happen?
